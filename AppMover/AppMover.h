@@ -15,5 +15,3 @@ FOUNDATION_EXPORT double AppMoverVersionNumber;
 FOUNDATION_EXPORT const unsigned char AppMoverVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <AppMover/PublicHeader.h>
-
-
